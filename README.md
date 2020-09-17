@@ -1,6 +1,6 @@
 # Data-Analysis
 
-Investigating the relation between DemocracyIndex and DrugUse using R by making detailed analysis
+### Investigating the relation between DemocracyIndex and DrugUse using R by making detailed analysis
 
 Analysis includes; 
 
@@ -16,7 +16,7 @@ Analysis includes;
 - Shapiro-Wilk Normality Test
 - Anderson-Darling Test
 ## Maximum Likelihood Estimator
- -Democracy Index
+- Democracy Index
 - Drug Use
 ## Correlation Tests
 - Pearson's Correlation Test
