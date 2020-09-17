@@ -24,7 +24,7 @@ Analysis includes;
 ## Linear Regression
 - Simple Linear Regression 
 
-### Data Sources
+## Data Sources
 
 "Free speech under attack." A report by The Economist Intelligence Unit Accessed September 11, 0 2020. https://pages.eiu.com/rs/753-RIQ438/images/Democracy_Index_2017. 
 
