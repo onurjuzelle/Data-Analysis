@@ -4,21 +4,23 @@ Investigating the relation between DemocracyIndex and DrugUse using R by making 
 
 Analysis includes; 
 
-##Plots
+## Plots
 - Scatter Plot
 - Box Plot 
 - Histogram
 - Q-Q Plot
-##Hypothesis Tests
+## Hypothesis Tests
 - Hypothesis I
 - Hypothesis II
-##Goodness of Fits Tests
+## Goodness of Fits Tests
 - Shapiro-Wilk Normality Test
 - Anderson-Darling Test
-##Maximum Likelihood Estimator
+## Maximum Likelihood Estimator
  -Democracy Index
 - Drug Use
-##Correlation Tests
+## Correlation Tests
 - Pearson's Correlation Test
 - Kendall’s Rank Correlation Test
-##Linear Regression
+## Linear Regression
+- Simple Linear Regression 
+
