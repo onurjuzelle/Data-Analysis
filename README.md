@@ -1,6 +1,6 @@
 # Data-Analysis
 
-### Investigating the relation between DemocracyIndex and DrugUse using R by making detailed analysis
+### Investigating the relation between DemocracyIndex and DrugUse by making statistical analysis
 
 ## Data Sources
 
@@ -8,7 +8,7 @@
 
 "Global Burden of Disease Study 2017 (GBD 2017) Results”. Institute for Health Metrics and Evaluation Evaluation (IHME), 2018. Accessed September 11, 2020. http://ghdx.healthdata.org/gbd-2017.
 
-Analysis includes; 
+### Statistical Analysis includes;
 
 ## Plots
 - Scatter Plot
