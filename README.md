@@ -1,6 +1,6 @@
 # Data-Analysis
 
-### Investigating the relation between DemocracyIndex and DrugUse by making statistical analysis
+#### Investigating the relation between DemocracyIndex and DrugUse by making statistical analysis
 
 ## Data Sources
 
